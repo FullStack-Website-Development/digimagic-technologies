@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #1363C6;
-    --secondary: #15ACE1;
+    --primary: linear-gradient(90deg, #004aad, #cb6ce6);
+    --secondary: linear-gradient(90deg, #004aad, #cb6ce6);
     --light: #F4F7FE;
     --dark: #14183E;
 }
